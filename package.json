@@ -11,6 +11,7 @@
     "author": "Andi Studer <andi@ntslive.co.uk>",
     "license": "MIT",
     "dependencies": {
-        "express": "~4.14.0"
+        "express": "~4.14.0",
+        "jgeoip": "^0.2.1"
     }
 }
